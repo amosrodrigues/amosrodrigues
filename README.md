@@ -1,4 +1,4 @@
-# Olá sou o Amos Rodrigues 🇧🇷
+# Olá sou o Amós Rodrigues 🇧🇷
 
 - 💻 Estudante de Desenvolvimento Web na Trybe
 
