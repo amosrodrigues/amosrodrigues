@@ -13,7 +13,7 @@
   <img align="center" alt="Amós-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Amós-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amós-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media0.giphy.com/media/IevWc3iH9FiI7yMItd/giphy.gif?cid=790b7611442137a58abbd1181dbd461508c82f9d510477f0&rid=giphy.gif&ct=g">
+  <img align="right" alt="Rafa-yoda" src="https://media2.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif">
 </div>
   
   ##
