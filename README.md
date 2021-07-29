@@ -13,7 +13,7 @@
   <img align="center" alt="Amós-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Amós-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amós-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <div style="border-radius: 6%" >
+  <div style="border-radius: 50%" >
    <img align="right" alt="Amós-yoda" height="120" width="130" src="https://media2.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif">
   </div> 
   
