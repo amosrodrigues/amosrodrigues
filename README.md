@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/Amos-Rodrigues-Dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Amos-Rodrigues-Dev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos-Rodrigues-Dev&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amos-Rodrigues-Dev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos-Rodrigues-Dev&layout=compact&langs_count=7&theme=onedark"/>
 </div> <!-- monokai -->
   
 <div style="display: inline_block"><br>
@@ -16,7 +16,7 @@
   <img align="center" alt="Amós-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!--   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-<!--   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+<!--   <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/L0Nops9UEKFmhOmGIk/giphy.gif">
 </div> -->
   
   ##
