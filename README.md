@@ -14,7 +14,7 @@
   <img align="center" alt="Amós-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amós-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
- <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/L0Nops9UEKFmhOmGIk/giphy.gif">
+<!--  <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/L0Nops9UEKFmhOmGIk/giphy.gif"> -->
  
 </div>
   
