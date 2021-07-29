@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/Amos-Rodrigues-Dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Amos-Rodrigues-Dev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos-Rodrigues-Dev&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Amos-Rodrigues-Dev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos-Rodrigues-Dev&layout=compact&langs_count=7&theme=onedark"/>
 </div> <!-- monokai -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Amós-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
