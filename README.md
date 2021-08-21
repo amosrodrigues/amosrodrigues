@@ -8,10 +8,10 @@
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos-Rodrigues-Dev&layout=compact&langs_count=7&theme=onedark"/>
 </div> <!-- monokai -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Amós-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Amós-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Amós-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amós-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Amós-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Amós-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Amós-yoda" height="120" width="130" src="https://media2.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif"> 
 <!--   <img align="right" alt="Amós-yoda" height="120" width="130" src="https://media0.giphy.com/media/IevWc3iH9FiI7yMItd/giphy.gif"> -->
 </div>
