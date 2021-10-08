@@ -14,7 +14,7 @@
   <img align="center" alt="Amós-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Amós-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   <img align="center" alt="Amós-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Amós-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-white.svg">
+  <img align="center" alt="Amós-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="right" alt="Amós-yoda" height="120" width="130" src="https://media2.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif"> 
 <!--   <img align="right" alt="Amós-yoda" height="120" width="130" src="https://media0.giphy.com/media/IevWc3iH9FiI7yMItd/giphy.gif"> -->
 </div>
