@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Amós Rodrigues 🇧🇷
 
- 💻 Estudante de Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li> 
+ <!-- 💻 Estudante de Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li> -->
 
-<!--
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
@@ -12,7 +11,7 @@
     <!-- <li>- 😄 Pronomes: [seus pronomes aqui]</li> -->
     <!-- <li>- ⚡ Fun fact: [alguma curiosidade sua]</li> -->
   </div> 
-</div>  -->
+</div> 
 
 ---
 
@@ -23,6 +22,7 @@
    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos-Rodrigues-Dev&layout=compact&langs_count=7&theme=onedark"/>
  </div> <!-- monokai -->
 </div>
+ 
 ---
 
 <div style="display: inline_block"><br>
