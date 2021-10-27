@@ -5,9 +5,9 @@
   <div align="left" style="display: inline_block">
     <li>- 💻 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 Aprendendo SGBD-MySQL</li>
-    <--! <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li> -->
-    <--! <li>- 😄 Pronomes: [seus pronomes aqui]</li> -->
-    <--! <li>- ⚡ Fun fact: [alguma curiosidade sua]</li> -->
+    <!-- <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li> -->
+    <!-- <li>- 😄 Pronomes: [seus pronomes aqui]</li> -->
+    <!-- <li>- ⚡ Fun fact: [alguma curiosidade sua]</li> -->
   </div>
 </div>
 
