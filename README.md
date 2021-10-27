@@ -11,17 +11,18 @@
     <!-- <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li> -->
     <!-- <li>- 😄 Pronomes: [seus pronomes aqui]</li> -->
     <!-- <li>- ⚡ Fun fact: [alguma curiosidade sua]</li> -->
-  </div>
+  </div> 
 </div>  -->
 
 ---
 
-<div align="center">
-  <a href="https://github.com/Amos-Rodrigues-Dev">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Amos-Rodrigues-Dev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos-Rodrigues-Dev&layout=compact&langs_count=7&theme=onedark"/>
-</div> <!-- monokai -->
-
+<div style="display: inline_block"><br>
+ <div align="center">
+   <a href="https://github.com/Amos-Rodrigues-Dev">
+   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Amos-Rodrigues-Dev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos-Rodrigues-Dev&layout=compact&langs_count=7&theme=onedark"/>
+ </div> <!-- monokai -->
+</div>
 ---
 
 <div style="display: inline_block"><br>
