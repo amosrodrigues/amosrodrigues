@@ -1,6 +1,17 @@
 ## Olá! Eu sou o Amós Rodrigues 🇧🇷
 
-- 💻 Estudante de Desenvolvimento Web na Trybe
+<div align="center">
+  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
+  <div align="left" style="display: inline_block">
+    <li>- 💻 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
+    <li>- 🌱 Aprendendo SGBD-MySQL</li>
+    <--! <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li> -->
+    <--! <li>- 😄 Pronomes: [seus pronomes aqui]</li> -->
+    <--! <li>- ⚡ Fun fact: [alguma curiosidade sua]</li> -->
+  </div>
+</div>
+
+<--! - 💻 Estudante de Desenvolvimento Web na Trybe -->
 
 <div align="center">
   <a href="https://github.com/Amos-Rodrigues-Dev">
