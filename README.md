@@ -11,7 +11,7 @@
   </div>
 </div>
 
-<--! - 💻 Estudante de Desenvolvimento Web na Trybe -->
+<!-- - 💻 Estudante de Desenvolvimento Web na Trybe -->
 
 <div align="center">
   <a href="https://github.com/Amos-Rodrigues-Dev">
