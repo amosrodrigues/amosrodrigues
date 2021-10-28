@@ -20,6 +20,8 @@
 </div> <!-- monokai -->
 
 ---
+  
+### Ferramentas e tecnologias que utilizo:
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Amós-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -38,7 +40,9 @@
 <!--   <img align="right" alt="Amós-yoda" height="120" width="130" src="https://media0.giphy.com/media/IevWc3iH9FiI7yMItd/giphy.gif"> -->
 </div>
   
-  ##
+---
+
+### Contato
  
 <div> 
   <a href="https://instagram.com/amos.adm.rh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
