@@ -3,12 +3,15 @@
 <div align="center">
   <!-- <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" /> -->
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
+    <li>- 💻 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 Aprendendo SGBD-MySQL</li>
+    <!-- <li>- 💬 Me pergunte sobre Design</li> -->
+    <!-- <li>- 😄 Pronomes: Ele/dele</li> -->
+    <!-- <li>- ⚡ Fun fact: Amo Harry Potter!!!</li> -->
   </div>
 </div>
 
-<!-- 💻 Estudante de Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li> -->
+---
 
 <div align="center">
   <a href="https://github.com/Amos-Rodrigues-Dev">
@@ -16,6 +19,8 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos-Rodrigues-Dev&layout=compact&langs_count=7&theme=onedark"/>
 </div> <!-- monokai -->
 
+---
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amós-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amós-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
