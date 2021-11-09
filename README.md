@@ -34,8 +34,8 @@
   <img align="center" alt="Amós-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Amós-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
   <img align="center" alt="Amós-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
-  <img align="center" alt="Amós-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="Amós-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Amós-MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Amós-MySql" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
 
   <img align="right" alt="Amós-yoda" height="120" width="130" src="https://media2.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif"> 
 <!--   <img align="right" alt="Amós-yoda" height="120" width="130" src="https://media0.giphy.com/media/IevWc3iH9FiI7yMItd/giphy.gif"> -->
