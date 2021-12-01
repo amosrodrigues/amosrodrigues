@@ -4,7 +4,7 @@
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
     <li>- 💻 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo NoSql-MongoDB</li>
+    <li>- 🌱 Aprendendo Node.js</li>
     <li>- 💬 Me pergunte sobre Carreira</li>
     <li>- 😄 Pronomes: Ele/dele</li>
     <li>- ⚡ Fun fact: Fórmula 1!!!</li>
