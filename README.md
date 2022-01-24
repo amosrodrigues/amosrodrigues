@@ -1,20 +1,15 @@
 ## Olá! Eu sou o Amós Rodrigues 🇧🇷
-
-<div align="center">
-  <div align="left" style="display: inline_block">
-    <li>- 💻 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo Node.js</li>
-    <li>- 💬 Me pergunte sobre Carreira</li>
-    <li>- 😄 Pronomes: Ele/dele</li>
-    <li>- ⚡ Fun fact: Fórmula 1!!!</li>
-  </div>
-</div>
+- 💻 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
+- 🌱 Aprendendo Node.js</li>
+- 💬 Me pergunte sobre Carreira</li>
+- 😄 Pronomes: Ele/dele</li>
+- ⚡ Fun fact: Fórmula 1!!!</li>
 
 <div align="center">
   <a href="https://github.com/Amos-Rodrigues-Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amos-Rodrigues-Dev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos-Rodrigues-Dev&layout=compact&langs_count=7&theme=react"/>
-</div> <!-- monokai -->
+</div> 
   
 ##
  
