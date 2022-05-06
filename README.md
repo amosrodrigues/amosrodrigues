@@ -28,6 +28,7 @@
   <img align="center" alt="Amós-MySql" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Amós-MongoDB" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Amós-NodeJS" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Amós-NodeJS" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
 
 ##
