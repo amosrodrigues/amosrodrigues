@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Amós Rodrigues 🇧🇷
 - 💻 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
-- 🌱 Aprendendo Python</li>
+- 🌱 Aprendendo Chakra UI</li>
 - 💬 Me pergunte sobre Carreira</li>
 - 😄 Pronomes: Ele/dele</li>
 - ⚡ Fun fact: Fórmula 1!!!</li>
