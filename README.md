@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Amós Rodrigues 🇧🇷
-<!-- - 💻 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li> -->
+💻 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li> | <a href="https://rocketseat.com">Rocketseat</a></li>
 - 🌱 Aprendendo Chakra UI</li>
 - 💬 Me pergunte sobre Carreira</li>
 - 😄 Pronomes: Ele/dele</li>
