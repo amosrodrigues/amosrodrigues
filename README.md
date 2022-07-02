@@ -6,9 +6,9 @@
 - ⚡ Fun fact: Fórmula 1!!!</li>
 
 <div align="center">
-  <a href="https://github.com/Amos-Rodrigues-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amos-Rodrigues-Dev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amos-Rodrigues-Dev&layout=compact&langs_count=7&theme=react"/>
+  <a href="https://github.com/amosrodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amosrodrigues&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosrodrigues&layout=compact&langs_count=7&theme=react"/>
 </div> 
   
 ##
@@ -36,8 +36,8 @@
   
 <div> 
   <a href = "mailto:amos.adm.rh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amos-rodrigues-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/amosrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Amos-Rodrigues-Dev/Amos-Rodrigues-Dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/amosrodrigues/Amos-Rodrigues-Dev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
