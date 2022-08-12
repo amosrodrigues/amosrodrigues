@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Amós Rodrigues 🇧🇷
 💻 🔭 Formação em Desenvolvimento Web pela <a href="https://betrybe.com" target="_blank">Trybe</a></li>
-- 🌱 Aprendendo Chakra UI</li>
+- 🌱 Aprendendo Chakra UI - Cypress</li>
 - 💬 Me pergunte sobre Carreira</li>
 - 😄 Pronomes: Ele/dele</li>
 - ⚡ Fun fact: Fórmula 1!!!</li>
