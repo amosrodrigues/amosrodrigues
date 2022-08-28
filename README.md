@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Amós Rodrigues 🇧🇷
-💻 🔭 Formação em Desenvolvimento Web pela <a href="https://betrybe.com" target="_blank">💚 Trybe</a> | <a href="https://www.rocketseat.com.br/" target="_blank">💜 Rocketseat</a> </li>  🚀
+💻 Formação em Desenvolvimento Web pela <a href="https://betrybe.com" target="_blank">💚 Trybe</a> </li> 
+🔭 Atualmente buscando especializações através da <a href="https://www.rocketseat.com.br/" target="_blank">💜 Rocketseat</a></li> 🚀
 - 🌱 Aprendendo Chakra UI - Cypress</li>
 - 💬 Me pergunte sobre Carreira</li>
 - 😄 Pronomes: Ele/dele</li>
