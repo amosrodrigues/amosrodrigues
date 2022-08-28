@@ -1,11 +1,12 @@
 ## Olá! Eu sou o Amós Rodrigues 🇧🇷
+<div>
 💻 <p>Formação em Desenvolvimento Web pela <a href="https://betrybe.com" target="_blank">💚 Trybe</a> </p> 
 🔭 <p>Atualmente buscando especializações através da <a href="https://www.rocketseat.com.br/" target="_blank">💜 Rocketseat</a></p> 🚀
 - 🌱 Aprendendo Chakra UI - Cypress</li>
 - 💬 Me pergunte sobre Carreira</li>
 - 😄 Pronomes: Ele/dele</li>
 - ⚡ Fun fact: Fórmula 1!!!</li>
-
+</div>
 <div align="center">
   <a href="https://github.com/amosrodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amosrodrigues&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
