@@ -20,8 +20,8 @@ export function About() {
             </p>
             <p>
               Aprender a aprender, a trabalhar e colaborar com{' '}
-              <em>&quot;pessoas fantásticas&quot;</em> que fazem parte de uma
-              escola como a Trybe, é ir além, desbravando com as melhores
+              <em>&quot;pessoas fantásticas&quot;</em> que fazem parte do
+              universo da programação, é ir além, desbravando com as melhores
               ferramentes, um conhecimento capaz de transformar o mundo e a vida
               das pessoas de forma <em>&quot;positiva e gratificante.&quot;</em>
             </p>
