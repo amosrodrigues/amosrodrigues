@@ -3,7 +3,7 @@
 <p>💻 Formação em Desenvolvimento Web pela <a href="https://betrybe.com" target="_blank">💚 Trybe</a> </p>
 <p>🔭 Atualmente buscando especializações através da <a href="https://www.rocketseat.com.br/" target="_blank">💜 Rocketseat</a></p>  </li>
 
-- 🌱 Aprendendo Chakra UI - Cypress</li>
+- 🌱 Aprendendo Storybook - Swagger-ui-</li>
 - 💬 Me pergunte sobre Carreira</li>
 - 😄 Pronomes: Ele/dele</li>
 - ⚡ Fun fact: Fórmula 1!!!</li>
