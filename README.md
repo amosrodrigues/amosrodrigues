@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Amós Rodrigues 🇧🇷  🚀
 
 <p>💻 Formação em Desenvolvimento Web pela <a href="https://betrybe.com" target="_blank">💚 Trybe</a> </p>
-<p>🔭 Atualmente buscando especializações através da <a href="https://www.rocketseat.com.br/" target="_blank">💜 Rocketseat</a></p>  </li>
+<p>🔭 Atualmente buscando conhecimentos de DevOps e Cloud</p>  </li>
 
-- 🌱 Aprendendo Design System </li>
+- 🌱 Aprendendo Python, Kubernetes, OpenTelemetry, Pometheus e Grafana</li>
 - 💬 Me pergunte sobre Carreira</li>
 - 😄 Pronomes: Ele/dele</li>
 - ⚡ Fun fact: Fórmula 1!!!</li>
