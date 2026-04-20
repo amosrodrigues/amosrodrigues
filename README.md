@@ -46,6 +46,16 @@
 </div>
 
 ##
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amosrodrigues/amosrodrigues/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amosrodrigues/amosrodrigues/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amosrodrigues/amosrodrigues/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+##
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amosrodrigues&theme=github-compact&area=true&hide_border=true">
