@@ -44,3 +44,12 @@
   ![Snake animation](https://github.com/amosrodrigues/amosrodrigues/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+##
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amosrodrigues&theme=github-compact&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amosrodrigues&theme=github-compact&area=true&hide_border=true">
+    <img alt="github contribution grid snake animation" src="https://github-readme-activity-graph.vercel.app/graph?username=amosrodrigues&theme=github-compact&area=true&hide_border=true">
+  </picture>
+</div>
