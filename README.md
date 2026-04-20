@@ -13,7 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amosrodrigues&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosrodrigues&layout=compact&langs_count=7&theme=react"/>
 </div> 
-  
+
+
 ##
  
 <!-- <div align="center">
@@ -59,6 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynatrace/dynatrace-original.svg" height="40" alt="Dynatrace" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" height="40" alt="OpenTelemetry" />
 </div>
+
+##
 
 <!--![Snake animation](https://raw.githubusercontent.com/amosrodrigues/amosrodrigues/output/github-contribution-grid-snake.svg)
 
