@@ -19,9 +19,14 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=amosrodrigues&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   </a>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosrodrigues&layout=compact&langs_count=7&theme=react" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amosrodrigues&theme=react" />
 </div>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amosrodrigues&theme=react" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amosrodrigues&color=00d8ff&style=flat-square&label=VISITS+MONITOR" />
+</div>
+
+<!-- <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amosrodrigues&theme=react" /> -->
 
 ##
  
