@@ -14,11 +14,25 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosrodrigues&layout=compact&langs_count=7&theme=react"/>
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/amosrodrigues">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=amosrodrigues&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   </a>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosrodrigues&layout=compact&langs_count=7&theme=react" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amosrodrigues&theme=react" />
+</div> -->
+<div align="center">
+  <!-- Cartão de Status Geral -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amosrodrigues&show_icons=true&theme=react&rank_icon=github&display_format=github-light-compact" />
+  
+  &nbsp;&nbsp;
+
+  <!-- Cartão de Linguagens -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosrodrigues&layout=compact&theme=react&hide_border=false" />
+
+  &nbsp;&nbsp;
+
+  <!-- Cartão de Streak (O que você confirmou que funciona) -->
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amosrodrigues&theme=react" />
 </div>
 
