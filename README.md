@@ -15,6 +15,21 @@
 </div> -->
 
 <div align="center">
+  <!-- Cartão de Status Geral -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amosrodrigues&show_icons=true&theme=react&rank_icon=github&display_format=github-light-compact" />
+  
+  &nbsp;&nbsp;
+
+  <!-- Cartão de Linguagens -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosrodrigues&layout=compact&theme=react&hide_border=false" />
+
+  &nbsp;&nbsp;
+
+  <!-- Cartão de Streak (O que você confirmou que funciona) -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amosrodrigues&theme=react" />
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=amosrodrigues&color=00d8ff&style=flat-square&label=VISITS+MONITOR" />
 </div>
 
