@@ -21,6 +21,8 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosrodrigues&layout=compact&langs_count=7&theme=react" />
 </div>
 
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amosrodrigues&theme=react" />
+
 ##
  
 <div align="center">
