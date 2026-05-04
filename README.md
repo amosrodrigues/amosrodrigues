@@ -16,7 +16,7 @@
 
 <div align="center">
   <!-- Cartão de Status Geral -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amosrodrigues&show_icons=true&theme=react&rank_icon=github&display_format=github-light-compact" />
+  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=amosrodrigues&show_icons=true&theme=react&rank_icon=github&display_format=github-light-compact" /> -->
   
   &nbsp;&nbsp;
 
